@@ -1,0 +1,6 @@
+keys = {
+[kumalalakumalala] = true, -- Random key!
+[123456aa] = true,
+[lolepicgamer] = true
+}
+return keys
